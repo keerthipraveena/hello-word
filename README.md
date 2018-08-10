@@ -1,2 +1,3 @@
 # hello-word
-just for repository 
+this is my first git practise
+to create an account,branches
